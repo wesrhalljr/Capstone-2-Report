@@ -1,1 +1,6 @@
+1) Business Registrations: Dataset includes business registration information categorized by NAICS codes, zip codes, geographic coordinates (latitude, longitude), and registration dates.
+o	Source: LA Active Businesses Dataset - 'https://data.lacity.org/Administration-Finance/Listing-of-Active-Businesses/6rrh-rzua/data'
+	
+2) Educational Attainment: Provides metrics on educational attainment (e.g., percentage of the population with bachelor's degrees or high school diplomas) by zip code.
+o	Source: Census Educational Attainment Dataset - 'https://data.census.gov/table?q=educational%20attainment%20by%20zip%20code&g=010XX00US_050XX00US06037'
 
